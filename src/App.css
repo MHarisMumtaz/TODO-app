@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+.chkboxMargin{
+  margin-top: 9px;
+  margin-right: 12px !important;
+}
+.inputMargin{
+  margin-left: 10px;
+}
+.shiftRight{
+  float: right;;
+  margin-top: -4px;
+  margin-right: 3px;
+}
+.list{
+  text-align: left !important;
+  padding: 30px;
+}
+.marg{
+  margin:10px;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.listHeight {
+  height: 50px;
+}
+.itemTitle {
+  float: left;
+    font-weight: bold;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
